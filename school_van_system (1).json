@@ -1,0 +1,238 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"school_van_system"},
+{"type":"table","name":"attendance","database":"school_van_system","data":
+[
+{"id":"1","studentId":"1","routeId":"1","stopPointId":null,"date":"2026-03-29 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-03-29 11:55:20","markedBy":"John Smith","notes":"On time","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"2","studentId":"2","routeId":"2","stopPointId":null,"date":"2026-03-29 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-03-29 11:55:20","markedBy":"Sarah Johnson","notes":"On time","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"3","studentId":"3","routeId":"3","stopPointId":null,"date":"2026-03-29 00:00:00","session":"morning","status":"Absent","timestamp":"2026-03-29 11:55:20","markedBy":"Michael Brown","notes":"Parent called - sick","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"4","studentId":"4","routeId":"4","stopPointId":null,"date":"2026-03-29 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-03-29 11:55:20","markedBy":"Emily Davis","notes":"On time","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"5","studentId":"6","routeId":"1","stopPointId":null,"date":"2026-03-29 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-03-29 11:55:20","markedBy":"John Smith","notes":"On time","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"6","studentId":"7","routeId":"2","stopPointId":null,"date":"2026-03-29 00:00:00","session":"morning","status":"Late","timestamp":"2026-03-29 11:55:20","markedBy":"Sarah Johnson","notes":"Traffic delay","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"7","studentId":"8","routeId":"3","stopPointId":null,"date":"2026-03-29 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-03-29 11:55:20","markedBy":"Michael Brown","notes":"On time","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"8","studentId":"1","routeId":"1","stopPointId":null,"date":"2026-03-28 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-03-29 11:55:20","markedBy":"John Smith","notes":"On time","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"9","studentId":"2","routeId":"2","stopPointId":null,"date":"2026-03-28 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-03-29 11:55:20","markedBy":"Sarah Johnson","notes":"On time","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"10","studentId":"3","routeId":"3","stopPointId":null,"date":"2026-03-28 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-03-29 11:55:20","markedBy":"Michael Brown","notes":"On time","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"11","studentId":"4","routeId":"4","stopPointId":null,"date":"2026-03-28 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-03-29 11:55:20","markedBy":"Emily Davis","notes":"On time","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"12","studentId":"12","routeId":"15","stopPointId":null,"date":"2026-04-05 00:00:00","session":"morning","status":"Dropped Safely","timestamp":"2026-04-05 03:19:34","markedBy":null,"notes":"","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"14","studentId":"666","routeId":"666","stopPointId":null,"date":"2026-04-05 00:00:00","session":"morning","status":"Absent","timestamp":"2026-04-05 04:04:58","markedBy":null,"notes":"","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"15","studentId":"11","routeId":"122","stopPointId":null,"date":"2026-04-05 00:00:00","session":"morning","status":"Absent","timestamp":"2026-04-05 04:09:16","markedBy":null,"notes":"Gg","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"16","studentId":"25","routeId":"666","stopPointId":null,"date":"2026-04-05 00:00:00","session":"morning","status":"Absent","timestamp":"2026-04-05 04:09:40","markedBy":null,"notes":"","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"17","studentId":"5888","routeId":"12","stopPointId":null,"date":"2026-04-05 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-04-05 04:17:22","markedBy":null,"notes":"","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"19","studentId":"88","routeId":"88","stopPointId":null,"date":"2026-04-05 00:00:00","session":"morning","status":"Absent","timestamp":"2026-04-05 05:18:21","markedBy":null,"notes":"","eventType":null,"archived":"1","archivedAt":"2026-04-26 04:57:05"},
+{"id":"21","studentId":"123456789","routeId":"56","stopPointId":null,"date":"2026-04-26 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-04-26 03:46:34","markedBy":null,"notes":"","eventType":"Boarding","archived":"0","archivedAt":null},
+{"id":"22","studentId":"123456","routeId":"56","stopPointId":null,"date":"2026-05-03 00:00:00","session":"morning","status":"Picked Up","timestamp":"2026-05-03 10:13:16","markedBy":null,"notes":"","eventType":"Boarding","archived":"0","archivedAt":null},
+{"id":"23","studentId":"258369","routeId":"41","stopPointId":null,"date":"2026-05-03 00:00:00","session":"morning","status":"Absent","timestamp":"2026-05-03 10:24:47","markedBy":null,"notes":"","eventType":"Boarding","archived":"0","archivedAt":null}
+]
+}
+,{"type":"table","name":"billing","database":"school_van_system","data":
+[
+{"id":"1","billId":"BILL001","studentId":"1","parentId":"1","month":"March","year":"2024","baseFee":"5000.00","attendancePercentage":"100.00","calculatedFee":"5000.00","status":"Paid","dueDate":"2024-03-31 00:00:00","paidDate":null,"invoiceSent":"0","created_at":"2026-03-29 06:25:20"},
+{"id":"2","billId":"BILL002","studentId":"2","parentId":"2","month":"March","year":"2024","baseFee":"5000.00","attendancePercentage":"100.00","calculatedFee":"5000.00","status":"Paid","dueDate":"2024-03-31 00:00:00","paidDate":null,"invoiceSent":"0","created_at":"2026-03-29 06:25:20"},
+{"id":"3","billId":"BILL003","studentId":"3","parentId":"3","month":"March","year":"2024","baseFee":"5000.00","attendancePercentage":"85.00","calculatedFee":"4250.00","status":"Pending","dueDate":"2024-03-31 00:00:00","paidDate":null,"invoiceSent":"0","created_at":"2026-03-29 06:25:20"},
+{"id":"4","billId":"BILL004","studentId":"4","parentId":"4","month":"March","year":"2024","baseFee":"5000.00","attendancePercentage":"100.00","calculatedFee":"5000.00","status":"Paid","dueDate":"2024-03-31 00:00:00","paidDate":null,"invoiceSent":"0","created_at":"2026-03-29 06:25:20"},
+{"id":"5","billId":"BILL005","studentId":"5","parentId":"5","month":"March","year":"2024","baseFee":"5000.00","attendancePercentage":"75.00","calculatedFee":"3750.00","status":"Overdue","dueDate":"2024-03-31 00:00:00","paidDate":null,"invoiceSent":"0","created_at":"2026-03-29 06:25:20"},
+{"id":"6","billId":"BILL006","studentId":"6","parentId":"6","month":"March","year":"2024","baseFee":"5000.00","attendancePercentage":"100.00","calculatedFee":"5000.00","status":"Paid","dueDate":"2024-03-31 00:00:00","paidDate":null,"invoiceSent":"0","created_at":"2026-03-29 06:25:20"},
+{"id":"7","billId":"BILL007","studentId":"7","parentId":"7","month":"March","year":"2024","baseFee":"5000.00","attendancePercentage":"95.00","calculatedFee":"4750.00","status":"Pending","dueDate":"2024-03-31 00:00:00","paidDate":null,"invoiceSent":"0","created_at":"2026-03-29 06:25:20"},
+{"id":"8","billId":"BILL008","studentId":"8","parentId":"8","month":"March","year":"2024","baseFee":"5000.00","attendancePercentage":"100.00","calculatedFee":"5000.00","status":"Paid","dueDate":"2024-03-31 00:00:00","paidDate":null,"invoiceSent":"0","created_at":"2026-03-29 06:25:20"}
+]
+}
+,{"type":"table","name":"billing_rules","database":"school_van_system","data":
+[
+{"id":"1","name":"Below 50% attendance → 50% fee","minAttendancePercent":"50.00","feeMultiplier":"0.5000","isActive":"1","created_at":"2026-05-03 09:50:31","updated_at":"2026-05-03 09:50:31"}
+]
+}
+,{"type":"table","name":"broadcast_alerts","database":"school_van_system","data":
+[
+{"id":"1","alertId":"BRD001","title":"School Closure Alert","message":"School will be closed tomorrow due to weather conditions. All van services suspended.","type":"Emergency Stop","priority":"High","targetAudience":"All Parents","routeId":null,"vanId":null,"sentAt":null,"createdBy":"Admin","created_at":"2026-03-29 06:25:20","updated_at":"2026-03-29 06:25:20"},
+{"id":"2","alertId":"BRD002","title":"Route Change Notice","message":"Route R001 will take alternate path due to road repairs. Expect 10 min delay.","type":"Route Change","priority":"Medium","targetAudience":"Specific Route","routeId":null,"vanId":null,"sentAt":null,"createdBy":"Admin","created_at":"2026-03-29 06:25:20","updated_at":"2026-03-29 06:25:20"},
+{"id":"3","alertId":"BRD003","title":"Safety Reminder","message":"Please ensure students wear seatbelts at all times during transit.","type":"General","priority":"Low","targetAudience":"All Parents","routeId":null,"vanId":null,"sentAt":null,"createdBy":"Admin","created_at":"2026-03-29 06:25:20","updated_at":"2026-03-29 06:25:20"}
+]
+}
+,{"type":"table","name":"daily_reports","database":"school_van_system","data":
+[
+{"id":"7","reportDate":"2026-04-26","title":"Attendance summary — 2026-04-26","summaryText":"Daily attendance summary for 2026-04-26: 0 log(s).","summaryJson":"{\"totalLogs\":0,\"byStatus\":{},\"byEventType\":{}}","adminNotes":"Mata enna wenne na ","status":"published","generatedAt":"2026-04-26 03:44:41","createdAt":"2026-04-26 03:44:41","updatedAt":"2026-05-04 08:17:11"}
+]
+}
+,{"type":"table","name":"delay_alerts","database":"school_van_system","data":
+[
+{"id":"1","routeId":"1","message":"Wassak wahinawa","estimatedDelayMinutes":"65","status":"dismissed","source":"manual","dismissedAt":"2026-04-04 14:24:26"},
+{"id":"4","routeId":"56","message":"","estimatedDelayMinutes":"0","status":"active","source":"manual","dismissedAt":null},
+{"id":"5","routeId":"58","message":"Van running behind schedule","estimatedDelayMinutes":"25","status":"dismissed","source":"manual","dismissedAt":"2026-04-05 04:15:36"},
+{"id":"6","routeId":"56","message":"Van eka kadila","estimatedDelayMinutes":"20","status":"dismissed","source":"manual","dismissedAt":"2026-04-05 04:16:24"},
+{"id":"11","routeId":"222","message":"Van running behind schedule","estimatedDelayMinutes":"10","status":"active","source":"manual","dismissedAt":null}
+]
+}
+,{"type":"table","name":"drivers","database":"school_van_system","data":
+[
+{"id":"1","driverId":"DRV001","firstName":"John","lastName":"Smith","licenseNumber":"DL123456","licenseExpiry":"2026-03-15 00:00:00","phone":"0771234567","email":"john.smith@email.com","assignedVanId":"VAN001","status":"Active","performanceScore":"100","violationCount":"0","created_at":"2026-03-29 06:25:19"},
+{"id":"2","driverId":"DRV002","firstName":"Sarah","lastName":"Johnson","licenseNumber":"DL234567","licenseExpiry":"2026-07-22 00:00:00","phone":"0772345678","email":"sarah.j@email.com","assignedVanId":"VAN002","status":"Active","performanceScore":"100","violationCount":"0","created_at":"2026-03-29 06:25:19"},
+{"id":"3","driverId":"DRV003","firstName":"Michael","lastName":"Brown","licenseNumber":"DL345678","licenseExpiry":"2025-11-30 00:00:00","phone":"0773456789","email":"michael.b@email.com","assignedVanId":"VAN003","status":"Active","performanceScore":"100","violationCount":"0","created_at":"2026-03-29 06:25:19"},
+{"id":"4","driverId":"DRV004","firstName":"Emily","lastName":"Davis","licenseNumber":"DL456789","licenseExpiry":"2027-05-18 00:00:00","phone":"0774567890","email":"emily.d@email.com","assignedVanId":"VAN004","status":"Active","performanceScore":"100","violationCount":"0","created_at":"2026-03-29 06:25:19"},
+{"id":"5","driverId":"DRV005","firstName":"David","lastName":"Wilson","licenseNumber":"DL567890","licenseExpiry":"2025-09-25 00:00:00","phone":"0775678901","email":"david.w@email.com","assignedVanId":null,"status":"Inactive","performanceScore":"100","violationCount":"0","created_at":"2026-03-29 06:25:19"}
+]
+}
+,{"type":"table","name":"driver_behavior","database":"school_van_system","data":
+[
+
+]
+}
+,{"type":"table","name":"driver_behavior_logs","database":"school_van_system","data":
+[
+
+]
+}
+,{"type":"table","name":"emergency_contacts","database":"school_van_system","data":
+[
+{"id":"1","studentId":"1","name":"Mary Anderson","relationship":"Mother","phone":"0719876543"},
+{"id":"2","studentId":"2","name":"Carlos Martinez","relationship":"Father","phone":"0728765432"},
+{"id":"3","studentId":"3","name":"Susan Taylor","relationship":"Mother","phone":"0737654321"},
+{"id":"4","studentId":"4","name":"John Thomas","relationship":"Father","phone":"0746543210"},
+{"id":"5","studentId":"5","name":"Maria Garcia","relationship":"Mother","phone":"0755432109"},
+{"id":"6","studentId":"6","name":"Jose Rodriguez","relationship":"Father","phone":"0764321098"},
+{"id":"7","studentId":"7","name":"Emma Wilson","relationship":"Mother","phone":"0773210987"},
+{"id":"8","studentId":"8","name":"Robert Moore","relationship":"Father","phone":"0782109876"}
+]
+}
+,{"type":"table","name":"gps_breadcrumbs","database":"school_van_system","data":
+[
+{"id":"1","route_db_id":"1","latitude":"6.91590160","longitude":"79.97334850","recorded_at":"2026-05-04 10:10:49"},
+{"id":"2","route_db_id":"1","latitude":"6.91590440","longitude":"79.97334780","recorded_at":"2026-05-04 10:11:00"},
+{"id":"3","route_db_id":"1","latitude":"6.91590440","longitude":"79.97334780","recorded_at":"2026-05-04 10:11:00"},
+{"id":"4","route_db_id":"1","latitude":"6.91590210","longitude":"79.97335460","recorded_at":"2026-05-04 10:11:11"},
+{"id":"5","route_db_id":"1","latitude":"6.91590210","longitude":"79.97335460","recorded_at":"2026-05-04 10:11:11"}
+]
+}
+,{"type":"table","name":"incidents","database":"school_van_system","data":
+[
+{"id":"1","incidentId":"INC001","vanId":"VAN001","driverId":"DRV001","type":"Accident","severity":"Low","description":"Minor collision with parked vehicle. No injuries. Police report filed.","latitude":"6.92710000","longitude":"79.86120000","status":"Resolved","resolutionDetails":null,"created_at":"2026-03-29 06:25:20","updated_at":"2026-03-29 06:25:20"},
+{"id":"2","incidentId":"INC002","vanId":"VAN004","driverId":"DRV004","type":"Breakdown","severity":"Medium","description":"Engine overheating. Vehicle towed to garage.","latitude":"7.20980000","longitude":"79.83580000","status":"Resolved","resolutionDetails":null,"created_at":"2026-03-29 06:25:20","updated_at":"2026-03-29 06:25:20"},
+{"id":"3","incidentId":"INC003","vanId":"VAN003","driverId":"DRV003","type":"Safety Concern","severity":"High","description":"Student had allergic reaction. Taken to hospital, now stable.","latitude":"6.05350000","longitude":"80.22100000","status":"Resolved","resolutionDetails":null,"created_at":"2026-03-29 06:25:20","updated_at":"2026-03-29 06:25:20"},
+{"id":"4","incidentId":"INC-1777808546460","vanId":"11","driverId":"11","type":"Breakdown","severity":"Medium","description":"Hdjdj","latitude":null,"longitude":null,"status":"Reported","resolutionDetails":null,"created_at":"2026-05-03 11:42:26","updated_at":"2026-05-03 11:42:26"}
+]
+}
+,{"type":"table","name":"notifications","database":"school_van_system","data":
+[
+{"id":"1","recipientId":"3","type":"Attendance","title":"Student Absent","message":"Olivia was marked absent today. Please confirm.","priority":"High","isRead":"1","sentAt":"2026-03-29 11:55:20","metadata":null,"deliveryStatus":"queued","parentDeliveredAt":null,"deliveryAttempts":"0","lastDeliveryError":null,"scheduledFor":null},
+{"id":"2","recipientId":"7","type":"Delay","title":"Late Arrival","message":"Mason arrived 20 minutes late today due to traffic.","priority":"Medium","isRead":"1","sentAt":"2026-03-29 11:55:20","metadata":null,"deliveryStatus":"queued","parentDeliveredAt":null,"deliveryAttempts":"0","lastDeliveryError":null,"scheduledFor":null},
+{"id":"3","recipientId":"1","type":"General","title":"School Event","message":"Reminder: School event tomorrow at 9 AM","priority":"Low","isRead":"1","sentAt":"2026-03-29 11:55:20","metadata":null,"deliveryStatus":"queued","parentDeliveredAt":null,"deliveryAttempts":"0","lastDeliveryError":null,"scheduledFor":null},
+{"id":"4","recipientId":"2","type":"Attendance","title":"Perfect Attendance","message":"Liam has perfect attendance this week!","priority":"Low","isRead":"1","sentAt":"2026-03-29 11:55:20","metadata":null,"deliveryStatus":"queued","parentDeliveredAt":null,"deliveryAttempts":"0","lastDeliveryError":null,"scheduledFor":null},
+{"id":"5","recipientId":"11","type":"Attendance","title":"Attendance: Boarding","message":"Student 777 — Picked Up (Boarding)","priority":"Medium","isRead":"1","sentAt":"2026-04-05 03:57:14","metadata":"{\"attendanceId\":13}","deliveryStatus":"cancelled","parentDeliveredAt":null,"deliveryAttempts":"0","lastDeliveryError":null,"scheduledFor":null},
+{"id":"6","recipientId":"544","type":"Attendance","title":"Attendance: Boarding","message":"Student 15 — Picked Up (Boarding)","priority":"Medium","isRead":"1","sentAt":"2026-04-05 05:05:55","metadata":"{\"attendanceId\":18}","deliveryStatus":"cancelled","parentDeliveredAt":null,"deliveryAttempts":"0","lastDeliveryError":null,"scheduledFor":null}
+]
+}
+,{"type":"table","name":"parents","database":"school_van_system","data":
+[
+{"id":"1","firstName":"Robert","lastName":"Anderson","email":"robert.a@email.com","phone":"0711234567","password":"password123","address":"12 School Lane, Colombo 03","notificationEmail":"1","notificationSMS":"1","notificationPush":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"2","firstName":"Jennifer","lastName":"Martinez","email":"jennifer.m@email.com","phone":"0712345678","password":"password123","address":"45 Garden Road, Kandy","notificationEmail":"1","notificationSMS":"1","notificationPush":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"3","firstName":"William","lastName":"Taylor","email":"william.t@email.com","phone":"0713456789","password":"password123","address":"78 Beach Street, Galle","notificationEmail":"1","notificationSMS":"0","notificationPush":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"4","firstName":"Patricia","lastName":"Thomas","email":"patricia.t@email.com","phone":"0714567890","password":"password123","address":"23 Lake View, Negombo","notificationEmail":"1","notificationSMS":"1","notificationPush":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"5","firstName":"James","lastName":"Garcia","email":"james.g@email.com","phone":"0715678901","password":"password123","address":"56 Hill Top, Matara","notificationEmail":"0","notificationSMS":"1","notificationPush":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"6","firstName":"Mary","lastName":"Rodriguez","email":"mary.r@email.com","phone":"0716789012","password":"password123","address":"89 Park Avenue, Colombo 05","notificationEmail":"1","notificationSMS":"1","notificationPush":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"7","firstName":"Charles","lastName":"Wilson","email":"charles.w@email.com","phone":"0717890123","password":"password123","address":"34 Main Street, Kandy","notificationEmail":"1","notificationSMS":"1","notificationPush":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"8","firstName":"Linda","lastName":"Moore","email":"linda.m@email.com","phone":"0718901234","password":"password123","address":"67 Sea Road, Galle","notificationEmail":"1","notificationSMS":"0","notificationPush":"1","created_at":"2026-03-29 06:25:19"}
+]
+}
+,{"type":"table","name":"parent_student_links","database":"school_van_system","data":
+[
+{"id":"1","parentId":"1","studentId":"1","relationship":"Father","isPrimary":"1","created_at":"2026-03-29 11:55:19"},
+{"id":"2","parentId":"2","studentId":"2","relationship":"Mother","isPrimary":"1","created_at":"2026-03-29 11:55:19"},
+{"id":"3","parentId":"3","studentId":"3","relationship":"Father","isPrimary":"1","created_at":"2026-03-29 11:55:19"},
+{"id":"4","parentId":"4","studentId":"4","relationship":"Mother","isPrimary":"1","created_at":"2026-03-29 11:55:19"},
+{"id":"5","parentId":"5","studentId":"5","relationship":"Father","isPrimary":"1","created_at":"2026-03-29 11:55:19"},
+{"id":"6","parentId":"6","studentId":"6","relationship":"Mother","isPrimary":"1","created_at":"2026-03-29 11:55:19"},
+{"id":"7","parentId":"7","studentId":"7","relationship":"Father","isPrimary":"1","created_at":"2026-03-29 11:55:19"},
+{"id":"8","parentId":"8","studentId":"8","relationship":"Mother","isPrimary":"1","created_at":"2026-03-29 11:55:19"}
+]
+}
+,{"type":"table","name":"payment_reminders","database":"school_van_system","data":
+[
+
+]
+}
+,{"type":"table","name":"routes","database":"school_van_system","data":
+[
+{"id":"1","routeId":"R001","routeName":"Colombo - Mount Lavinia Route","vanId":"VAN001","isActive":"1","currentGPS_latitude":"6.91590210","currentGPS_longitude":"79.97335460","currentGPS_timestamp":"2026-05-04 10:11:11","created_at":"2026-03-29 06:25:19","updated_at":"2026-05-04 10:11:11","plannedPathJson":null,"distanceKm":null},
+{"id":"2","routeId":"R002","routeName":"Kandy - Peradeniya Route","vanId":"VAN002","isActive":"1","currentGPS_latitude":"7.29060000","currentGPS_longitude":"80.63370000","currentGPS_timestamp":null,"created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19","plannedPathJson":null,"distanceKm":null},
+{"id":"3","routeId":"R003","routeName":"Galle - Hikkaduwa Route","vanId":"VAN003","isActive":"1","currentGPS_latitude":"6.05350000","currentGPS_longitude":"80.22100000","currentGPS_timestamp":null,"created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19","plannedPathJson":null,"distanceKm":null},
+{"id":"4","routeId":"R004","routeName":"Negombo - Katunayake Route","vanId":"VAN004","isActive":"1","currentGPS_latitude":"7.20980000","currentGPS_longitude":"79.83580000","currentGPS_timestamp":null,"created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19","plannedPathJson":null,"distanceKm":null},
+{"id":"5","routeId":"R005","routeName":"Matara - Weligama Route","vanId":"VAN005","isActive":"0","currentGPS_latitude":null,"currentGPS_longitude":null,"currentGPS_timestamp":null,"created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19","plannedPathJson":null,"distanceKm":null}
+]
+}
+,{"type":"table","name":"route_deviation_alerts","database":"school_van_system","data":
+[
+
+]
+}
+,{"type":"table","name":"safety_checks","database":"school_van_system","data":
+[
+{"id":"1","checkId":"CHK001","vanId":"VAN001","driverId":"DRV001","brakes":"1","tires":"1","lights":"1","fuel":"1","firstAidKit":"1","fireExtinguisher":"1","overallStatus":"Pass","notes":"All systems normal","created_at":"2026-03-29 06:25:20"},
+{"id":"2","checkId":"CHK002","vanId":"VAN002","driverId":"DRV002","brakes":"1","tires":"1","lights":"0","fuel":"1","firstAidKit":"1","fireExtinguisher":"1","overallStatus":"Needs Attention","notes":"One brake light not working","created_at":"2026-03-29 06:25:20"},
+{"id":"3","checkId":"CHK003","vanId":"VAN003","driverId":"DRV003","brakes":"1","tires":"1","lights":"1","fuel":"1","firstAidKit":"1","fireExtinguisher":"1","overallStatus":"Pass","notes":"All equipment present","created_at":"2026-03-29 06:25:20"},
+{"id":"4","checkId":"CHK004","vanId":"VAN004","driverId":"DRV004","brakes":"0","tires":"1","lights":"1","fuel":"1","firstAidKit":"1","fireExtinguisher":"1","overallStatus":"Fail","notes":"Brake system needs immediate attention","created_at":"2026-03-29 06:25:20"},
+{"id":"5","checkId":"CHK-1777808560285","vanId":"VAN-001","driverId":"DRV-001","brakes":"1","tires":"1","lights":"0","fuel":"0","firstAidKit":"1","fireExtinguisher":"0","overallStatus":"Fail","notes":null,"created_at":"2026-05-03 11:42:40"}
+]
+}
+,{"type":"table","name":"schedules","database":"school_van_system","data":
+[
+{"id":"1","routeId":"1","vanId":"VAN001","session":"morning","departureTime":"06:30","arrivalTime":"07:15","isActive":"1","specialNotes":"Pick up from Colombo Fort area","created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19"},
+{"id":"2","routeId":"1","vanId":"VAN001","session":"afternoon","departureTime":"14:30","arrivalTime":"15:15","isActive":"1","specialNotes":"Drop off at same locations","created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19"},
+{"id":"3","routeId":"2","vanId":"VAN002","session":"morning","departureTime":"07:00","arrivalTime":"07:30","isActive":"1","specialNotes":"Kandy city route","created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19"},
+{"id":"4","routeId":"2","vanId":"VAN002","session":"afternoon","departureTime":"15:00","arrivalTime":"15:30","isActive":"1","specialNotes":"Return route","created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19"},
+{"id":"5","routeId":"3","vanId":"VAN003","session":"morning","departureTime":"06:45","arrivalTime":"07:35","isActive":"1","specialNotes":"Coastal route","created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19"},
+{"id":"6","routeId":"3","vanId":"VAN003","session":"afternoon","departureTime":"14:45","arrivalTime":"15:35","isActive":"1","specialNotes":"Return via main road","created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19"},
+{"id":"7","routeId":"4","vanId":"VAN004","session":"morning","departureTime":"07:15","arrivalTime":"07:50","isActive":"1","specialNotes":"Airport area route","created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19"},
+{"id":"8","routeId":"4","vanId":"VAN004","session":"afternoon","departureTime":"15:15","arrivalTime":"15:50","isActive":"1","specialNotes":"Return route","created_at":"2026-03-29 06:25:19","updated_at":"2026-03-29 06:25:19"}
+]
+}
+,{"type":"table","name":"sos_alerts","database":"school_van_system","data":
+[
+{"id":"1","alertId":"SOS001","vanId":"VAN001","driverId":"DRV001","routeId":"R001","latitude":"6.92710000","longitude":"79.86120000","status":"Resolved","description":"Minor accident - no injuries","responseNotes":null,"resolvedAt":null,"created_at":"2026-03-29 06:25:20","updated_at":"2026-03-29 06:25:20"},
+{"id":"2","alertId":"SOS002","vanId":"VAN003","driverId":"DRV003","routeId":"R003","latitude":"6.05350000","longitude":"80.22100000","status":"Resolved","description":"Vehicle breakdown - waiting for assistance","responseNotes":null,"resolvedAt":"2026-05-03 10:11:51","created_at":"2026-03-29 06:25:20","updated_at":"2026-05-03 10:11:51"},
+{"id":"3","alertId":"SOS003","vanId":"VAN002","driverId":"DRV002","routeId":"R002","latitude":"7.29060000","longitude":"80.63370000","status":"Resolved","description":"Medical emergency - student feeling unwell","responseNotes":null,"resolvedAt":null,"created_at":"2026-03-29 06:25:20","updated_at":"2026-03-29 06:25:20"},
+{"id":"4","alertId":"SOS-1777803841642","vanId":"VAN-001","driverId":"DRV-001","routeId":"ROUTE-001","latitude":"6.92710000","longitude":"79.86120000","status":"Resolved","description":"Emergency situation","responseNotes":null,"resolvedAt":"2026-05-03 10:24:18","created_at":"2026-05-03 10:24:01","updated_at":"2026-05-03 10:24:18"},
+{"id":"5","alertId":"SOS-1777808516252","vanId":"VAN-001","driverId":"DRV-001","routeId":"ROUTE-001","latitude":"6.92710000","longitude":"79.86120000","status":"Reported","description":"Emergency situation","responseNotes":null,"resolvedAt":null,"created_at":"2026-05-03 11:41:56","updated_at":"2026-05-03 11:41:56"}
+]
+}
+,{"type":"table","name":"stop_points","database":"school_van_system","data":
+[
+
+]
+}
+,{"type":"table","name":"students","database":"school_van_system","data":
+[
+{"id":"1","studentId":"STU001","firstName":"Emma","lastName":"Anderson","grade":"5","dateOfBirth":"2014-04-12 00:00:00","assignedVanId":"VAN001","assignedRouteId":"1","stopPointId":null,"pickupAddress":"12 School Lane, Colombo 03","pickupLatitude":null,"pickupLongitude":null,"dropAddress":null,"dropLatitude":null,"dropLongitude":null,"isActive":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"2","studentId":"STU002","firstName":"Liam","lastName":"Martinez","grade":"7","dateOfBirth":"2012-08-23 00:00:00","assignedVanId":"VAN002","assignedRouteId":"2","stopPointId":null,"pickupAddress":"45 Garden Road, Kandy","pickupLatitude":null,"pickupLongitude":null,"dropAddress":null,"dropLatitude":null,"dropLongitude":null,"isActive":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"3","studentId":"STU003","firstName":"Olivia","lastName":"Taylor","grade":"6","dateOfBirth":"2013-11-05 00:00:00","assignedVanId":"VAN003","assignedRouteId":"3","stopPointId":null,"pickupAddress":"78 Beach Street, Galle","pickupLatitude":null,"pickupLongitude":null,"dropAddress":null,"dropLatitude":null,"dropLongitude":null,"isActive":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"4","studentId":"STU004","firstName":"Noah","lastName":"Thomas","grade":"4","dateOfBirth":"2015-02-18 00:00:00","assignedVanId":"VAN004","assignedRouteId":"4","stopPointId":null,"pickupAddress":"23 Lake View, Negombo","pickupLatitude":null,"pickupLongitude":null,"dropAddress":null,"dropLatitude":null,"dropLongitude":null,"isActive":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"5","studentId":"STU005","firstName":"Ava","lastName":"Garcia","grade":"8","dateOfBirth":"2011-06-30 00:00:00","assignedVanId":"VAN005","assignedRouteId":"5","stopPointId":null,"pickupAddress":"56 Hill Top, Matara","pickupLatitude":null,"pickupLongitude":null,"dropAddress":null,"dropLatitude":null,"dropLongitude":null,"isActive":"0","created_at":"2026-03-29 06:25:19"},
+{"id":"6","studentId":"STU006","firstName":"Sophia","lastName":"Rodriguez","grade":"5","dateOfBirth":"2014-09-14 00:00:00","assignedVanId":"VAN001","assignedRouteId":"1","stopPointId":null,"pickupAddress":"89 Park Avenue, Colombo 05","pickupLatitude":null,"pickupLongitude":null,"dropAddress":null,"dropLatitude":null,"dropLongitude":null,"isActive":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"7","studentId":"STU007","firstName":"Mason","lastName":"Wilson","grade":"6","dateOfBirth":"2013-03-27 00:00:00","assignedVanId":"VAN002","assignedRouteId":"2","stopPointId":null,"pickupAddress":"34 Main Street, Kandy","pickupLatitude":null,"pickupLongitude":null,"dropAddress":null,"dropLatitude":null,"dropLongitude":null,"isActive":"1","created_at":"2026-03-29 06:25:19"},
+{"id":"8","studentId":"STU008","firstName":"Isabella","lastName":"Moore","grade":"7","dateOfBirth":"2012-12-08 00:00:00","assignedVanId":"VAN003","assignedRouteId":"3","stopPointId":null,"pickupAddress":"67 Sea Road, Galle","pickupLatitude":null,"pickupLongitude":null,"dropAddress":null,"dropLatitude":null,"dropLongitude":null,"isActive":"1","created_at":"2026-03-29 06:25:19"}
+]
+}
+,{"type":"table","name":"student_guardians","database":"school_van_system","data":
+[
+
+]
+}
+,{"type":"table","name":"trips","database":"school_van_system","data":
+[
+
+]
+}
+,{"type":"table","name":"trip_logs","database":"school_van_system","data":
+[
+
+]
+}
+,{"type":"table","name":"vehicles","database":"school_van_system","data":
+[
+{"id":"1","vanId":"VAN001","registrationNumber":"CAB-1234","model":"Toyota Hiace","capacity":"15","insuranceExpiry":"2025-06-30 00:00:00","lastServiceDate":"2024-02-15 00:00:00","nextServiceDate":"2024-05-15 00:00:00","assignedDriverId":"DRV001","status":"Active","created_at":"2026-03-29 06:25:19"},
+{"id":"2","vanId":"VAN002","registrationNumber":"CAB-2345","model":"Nissan Caravan","capacity":"12","insuranceExpiry":"2025-08-15 00:00:00","lastServiceDate":"2024-02-20 00:00:00","nextServiceDate":"2024-05-20 00:00:00","assignedDriverId":"DRV002","status":"Active","created_at":"2026-03-29 06:25:19"},
+{"id":"3","vanId":"VAN003","registrationNumber":"CAB-3456","model":"Toyota Coaster","capacity":"20","insuranceExpiry":"2025-12-31 00:00:00","lastServiceDate":"2024-02-10 00:00:00","nextServiceDate":"2024-05-10 00:00:00","assignedDriverId":"DRV003","status":"Active","created_at":"2026-03-29 06:25:19"},
+{"id":"4","vanId":"VAN004","registrationNumber":"CAB-4567","model":"Mitsubishi Rosa","capacity":"18","insuranceExpiry":"2025-04-20 00:00:00","lastServiceDate":"2024-02-25 00:00:00","nextServiceDate":"2024-05-25 00:00:00","assignedDriverId":"DRV004","status":"Active","created_at":"2026-03-29 06:25:19"},
+{"id":"5","vanId":"VAN005","registrationNumber":"CAB-5678","model":"Toyota Hiace","capacity":"15","insuranceExpiry":"2025-10-10 00:00:00","lastServiceDate":"2024-01-30 00:00:00","nextServiceDate":"2024-04-30 00:00:00","assignedDriverId":null,"status":"Maintenance","created_at":"2026-03-29 06:25:19"}
+]
+}
+]

@@ -1,0 +1,12 @@
+{
+  "name": "school-van-unified-backend",
+  "version": "1.0.0",
+  "description": "Unified backend launcher for all 6 modules",
+  "main": "unified-server.js",
+  "scripts": {
+    "start": "node unified-server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Emergency & Safety Management",
+    "slug": "emergency-safety",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.schoolvan.emergencysafety"
+    },
+    "android": {
+      "package": "com.schoolvan.emergencysafety"
+    }
+  }
+}
